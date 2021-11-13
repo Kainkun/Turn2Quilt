@@ -15,7 +15,7 @@ The tool needs to know the rotation direction in order to create the correct par
 <br />
 This example animation is from [Jean Zoudi's Artstation](https://www.artstation.com/artwork/0ndYq8)<br />
 Left is the input, Right is the output.<br />
-<img src="https://github.com/Kainkun/Turn2Quilt/blob/main/readme/Witness.gif" width="237" height="200" /> <img src="https://github.com/Kainkun/Turn2Quilt/blob/main/readme/Quilt.gif" width="315" height="200" />
+<img src="https://github.com/Kainkun/Turn2Quilt/blob/main/readme/Witness.gif" width="296" height="250" /> <img src="https://github.com/Kainkun/Turn2Quilt/blob/main/readme/Quilt.gif" width="395" height="250" />
 
 Notice that each tile on the right is slight more rotated than the one next to it. That's because each tile represents a different viewing angle on the Looking Glass display
 <br />
