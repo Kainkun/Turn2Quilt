@@ -1,5 +1,5 @@
 # Turn2Quilt
-Hello! This is a short script I made to try to convert looping turntable style 3D animations into "quilt" holograms that can be displayed on a [Looking Glass](https://lookingglassfactory.com/).
+Hello! This is a short command line script I made to try to convert looping turntable style 3D animations into "quilt" holograms that can be displayed on a [Looking Glass](https://lookingglassfactory.com/).
 This was made in Python version 3.9.2 but I think it should work on most Python versions.<br />
 This uses **OpenCV** and **NumPy** to calculate the quilts
 
